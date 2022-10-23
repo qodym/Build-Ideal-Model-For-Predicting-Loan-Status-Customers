@@ -8,7 +8,7 @@ Hi, I'm Aldy Budhi Iskandar, a Data Scientist that just started my data learning
 
 This dataset consists of **466285 rows** and **75 columns**. In this project, I try to Build most ideal model for predicting Loan Status Customers in dataset by Performing Supervised Classification model Machine Learning.
 
-Contents:
+**Contents:**
 
 `_rec` :	The total amount committed by investors for that loan at that point in time.
 
